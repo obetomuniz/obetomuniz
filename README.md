@@ -48,11 +48,11 @@ Similar to Minas Dev Newsletter, Minas Dev Telegram's is a channel where we sync
 
 🕴 **[Listtta](https://listtta.com)**
 
-Listta is an improved and minimal way to use Twitter that I created to to avoid toxicity on Twitter and to filter the content based in your real interests instead of notification spamming. I created it using Flutter.
+Listta is an improved and minimal way to use Twitter that I created to avoid toxicity on Twitter and to filter the content based in your real interests instead of notification spamming. I created it using Flutter.
 
 🕷 **[Tatooine](https://github.com/obetomuniz/tatooine)**
 
-A minimal, but powerful and pluggable web scrapper.
+A minimal, but powerful and pluggable web scrapper. I created it using Node.js
 
 💻 [Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web)
 
