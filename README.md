@@ -40,7 +40,7 @@ Minas Dev Vagas is a place where we index job positions from dozens of the most 
 
 Minas Dev Newsletter is a newspaper to our community members with News, Featured Articles, Events, Job Positions, etc.
 
-🔺&nbsp;&nbsp;[Minas Dev Medium](https://medium.org/minasdev)
+🔺&nbsp;&nbsp;[Minas Dev Medium](https://medium.com/minasdev)
 
 Minas Dev Medium is a Medium publication for our community members and also to channel that we release Minas Dev's articles of general interest.
 
