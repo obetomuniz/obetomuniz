@@ -28,15 +28,15 @@ Similar to my Telegram channel, my Newsletter is a place where I share content f
 
 My YouTube channel is a place where I vlog about Web Development, Remote Work, Dev Community, Career, and Technology.
 
-🔺&nbsp;&nbsp;**[Minas Dev](https://minadev.org)**
+🔺&nbsp;&nbsp;**[Minas Dev](https://minasdev.org)**
 
 Minas Dev is a Brazilian community where I am Community Lead and co-founder.
 
-🔺&nbsp;&nbsp;[Minas Dev Vagas](https://minadev.org/vagas)
+🔺&nbsp;&nbsp;[Minas Dev Vagas](https://minasdev.org/vagas)
 
 Minas Dev Vagas is a place where we index job positions from dozens of the most active channels in the world and Brazil. We also has a job register flow that feature and propagate jobs across our community platform (e.g. Twitter, LInkedIn, Facebook, Newsletter, Slack, Telegram, etc.)
 
-🔺&nbsp;&nbsp;[Minas Dev Newsletter](https://minadev.org)
+🔺&nbsp;&nbsp;[Minas Dev Newsletter](https://minasdev.org)
 
 Minas Dev Newsletter is a newspaper to our community members with News, Featured Articles, Events, Job Positions, etc.
 
@@ -44,7 +44,7 @@ Minas Dev Newsletter is a newspaper to our community members with News, Featured
 
 Minas Dev Medium is a Medium publication for our community members and also to channel that we release Minas Dev's articles of general interest.
 
-🔺&nbsp;&nbsp;[Minas Dev Slack](https://minadev.org/slack)
+🔺&nbsp;&nbsp;[Minas Dev Slack](https://minasdev.org/slack)
 
 Minas Dev Slack is Minas Dev's HQ. We centralize everything there using bots, custom integrations, etc. 
 
