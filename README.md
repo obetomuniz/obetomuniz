@@ -20,7 +20,7 @@ Similar to my Telegram channel, my Newsletter is a place where I share content f
 
 📺 **[YouTube Channel](https://www.youtube.com/c/betomuniz)**
 
-My YouTube channel is a place where I vlog and post videos about Web Development, Remote Work, Dev Community, Carreer, and Technologies.
+My YouTube channel is a place where I vlog and post videos about Web Development, Remote Work, Dev Community, Career, and Technology.
 
 🔺 **[Minas Dev](https://minadev.org)**
 
