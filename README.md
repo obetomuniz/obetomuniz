@@ -2,7 +2,7 @@
 
 I'm **Beto Muniz**, a Front-End Engineer who lives in Belo Horizonte, Brazil.
 
-Inspired by the study of new technologies, **I am always willing to contribute to the community** via [posts](https://betomuniz.com/blog), [videos](https://www.youtube.com/c/betomuniz), [projects](https://betomuniz.com/projects), and [talks](https://betomuniz.com/talks).
+Inspired by web technologies, **I am always willing to contribute to the community** via [posts](https://betomuniz.com/blog), [videos](https://www.youtube.com/c/betomuniz), [projects](https://betomuniz.com/projects), and [talks](https://betomuniz.com/talks).
 
 Currently, I work at **[X-Team](https://x-team.com/)** - **let me know if you wanna join our team too 😎.** 
 
