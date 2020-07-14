@@ -24,7 +24,7 @@ My YouTube channel is a place where I vlog and post videos about Web Development
 
 🔺 **[Minas Dev](https://minadev.org)**
 
-Minas Dev is a local Brazilian community where I am Community Lead and co-founder.
+Minas Dev is a Brazilian community where I am Community Lead and co-founder.
 
 🔺 [Minas Dev Vagas](https://minadev.org/vagas)
 
@@ -44,7 +44,7 @@ Minas Dev Slack is Minas Dev's HQ. We basically centralize everything there usin
 
 🔺 [Minas Dev Telegram](https://t.me/minasdev)
 
-Similar to Minas Dev Newsletter, Minas Dev Telegram's is a channel where we sync our community members on Telegram.
+Similar to Minas Dev Newsletter, Minas Dev Telegram's is a channel where we sync our community members on Telegram about everything in our community.
 
 🕴 **[Listtta](https://listtta.com)**
 
