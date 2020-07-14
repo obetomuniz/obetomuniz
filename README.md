@@ -16,11 +16,11 @@ To know more, follow me on **[Twitter](https://twitter.com/obetomuniz)**, **[Tel
 ### 👨‍💻&nbsp;&nbsp;&nbsp;My Personal Projects
 <br>
 
-✈️&nbsp;&nbsp;**[Telegram Channel](https://t.me/obetomuniz_drops)**
+✈️&nbsp;&nbsp;**[Beto Muniz Drops](https://t.me/obetomuniz_drops)**
 
 A channel on Telegram where I share exclusive content for people that has interest to hear me text about Web Development, Remote Work, Dev Community, Career, and Technology.
 
-📰&nbsp;&nbsp;**[Personal Newsletter](https://betomuniz.us10.list-manage.com/subscribe/post?u=272246eec42af04685103c358&id=ab6499fbe1)**
+📰&nbsp;&nbsp;**[Beto Muniz Newsletter](https://betomuniz.us10.list-manage.com/subscribe/post?u=272246eec42af04685103c358&id=ab6499fbe1)**
 
 Similar to my Telegram channel, my Newsletter is a place where I share content for people that has interest to hear my thougths about Web Development, Remote Work, Dev Community, Career, and Technology.
 
