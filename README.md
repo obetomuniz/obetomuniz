@@ -8,6 +8,14 @@ Currently, I work at [X-Team](https://x-team.com/), **so let me know if you wann
 
 Also, I'm a [Google Developer Expert for Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-beto_muniz).
 
+### Main Stack
+
+- JavaScript/TypeScript
+- HTML/CSS
+- React
+- Node.js
+- Flutter
+
 ### 👨‍💻 My beloved Personal Projects
 
 ✈️ **[Telegram Channel](https://t.me/obetomuniz_drops)**
