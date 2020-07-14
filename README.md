@@ -18,15 +18,15 @@ To know more, follow me on **[Twitter](https://twitter.com/obetomuniz)**, **[Tel
 
 ✈️&nbsp;&nbsp;**[Telegram Channel](https://t.me/obetomuniz_drops)**
 
-A channel on Telegram where I share exclusive content for people that has interest in Web Development, Remote Work, Dev Community, Career, and Technology.
+A channel on Telegram where I share exclusive content for people that has interest to hear me text about Web Development, Remote Work, Dev Community, Career, and Technology.
 
 📰&nbsp;&nbsp;**[Personal Newsletter](https://betomuniz.us10.list-manage.com/subscribe/post?u=272246eec42af04685103c358&id=ab6499fbe1)**
 
-Similar to my Telegram channel, my Newsletter is a place where I share content for people that has interested in Web Development, Remote Work, Dev Community, Career, and Technology.
+Similar to my Telegram channel, my Newsletter is a place where I share content for people that has interest to hear my thougths about Web Development, Remote Work, Dev Community, Career, and Technology.
 
 📺&nbsp;&nbsp;**[YouTube Channel](https://www.youtube.com/c/betomuniz)**
 
-My YouTube channel is a place where I vlog and post videos about Web Development, Remote Work, Dev Community, Career, and Technology.
+My YouTube channel is a place where I vlog about Web Development, Remote Work, Dev Community, Career, and Technology.
 
 🔺&nbsp;&nbsp;**[Minas Dev](https://minadev.org)**
 
@@ -34,19 +34,19 @@ Minas Dev is a Brazilian community where I am Community Lead and co-founder.
 
 🔺&nbsp;&nbsp;[Minas Dev Vagas](https://minadev.org/vagas)
 
-Minas Dev Vagas is a place where we index job positions from dozens of the most active channels in the world and Brazil. We also has a job register system flow that feature and propagate jobs registered there across our community platform (e.g. Twitter, LInkedIn, Facebook, Newsletter, Slack, Telegram, etc.)
+Minas Dev Vagas is a place where we index job positions from dozens of the most active channels in the world and Brazil. We also has a job register flow that feature and propagate jobs across our community platform (e.g. Twitter, LInkedIn, Facebook, Newsletter, Slack, Telegram, etc.)
 
 🔺&nbsp;&nbsp;[Minas Dev Newsletter](https://minadev.org)
 
-Minas Dev Newsletter is a newspaper of our local community for our members with News, Featured Articles, Events, Job Positions, etc.
+Minas Dev Newsletter is a newspaper to our community members with News, Featured Articles, Events, Job Positions, etc.
 
 🔺&nbsp;&nbsp;[Minas Dev Medium](https://medium.org/minasdev)
 
-Minas Dev Medium is a Medium publication for our members and also to release Minas Dev's articles of general interest.
+Minas Dev Medium is a Medium publication for our community members and also to channel that we release Minas Dev's articles of general interest.
 
 🔺&nbsp;&nbsp;[Minas Dev Slack](https://minadev.org/slack)
 
-Minas Dev Slack is Minas Dev's HQ. We basically centralize everything there using bots, custom integrations, etc. 
+Minas Dev Slack is Minas Dev's HQ. We centralize everything there using bots, custom integrations, etc. 
 
 🔺&nbsp;&nbsp;[Minas Dev Telegram](https://t.me/minasdev)
 
@@ -54,12 +54,12 @@ Similar to Minas Dev Newsletter, Minas Dev Telegram's is a channel where we sync
 
 🕴&nbsp;&nbsp;**[Listtta](https://listtta.com)**
 
-Listta is an improved and minimal way to use Twitter that I created to avoid toxicity on Twitter and to filter the content based in your real interests instead of notification spamming. I created it using Flutter.
+Listta is an improved and minimal way to use Twitter that I created to avoid toxicity on Twitter filtering the content based in your real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
 
 🕷&nbsp;&nbsp;**[Tatooine](https://github.com/obetomuniz/tatooine)**
 
-A minimal, but powerful and pluggable web scrapper. I created it using Node.js
+A minimal, powerful and pluggable web scrapper. I created it using Node.js
 
 💻&nbsp;&nbsp;[Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web)
 
-We need to support Semantic Web as web developers, so I created this plugin for Atom to help everyone while creating web pages to adopt semantic.
+We need to support semantic in web as developers, so I created this plugin for Atom to help its users to adopt semantic standards while creating web pages.
