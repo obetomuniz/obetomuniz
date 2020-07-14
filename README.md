@@ -12,13 +12,13 @@ Also, I'm a [Google Developer Expert for Web Technologies](https://developers.go
 
 ✈️ **[Telegram Channel](https://t.me/obetomuniz_drops)**
 
-A channel on Telegram where I share exclusive content for people that has interest in Web Development, Remote Work, Dev Community, Carreer, and Technologies.
+A channel on Telegram where I share exclusive content for people that has interest in Web Development, Remote Work, Dev Community, Career, and Technology.
 
 📰 **[Personal Newsletter](https://betomuniz.us10.list-manage.com/subscribe/post?u=272246eec42af04685103c358&id=ab6499fbe1)**
 
-Similar to my Telegram channel, my Newsletter is a place where I share content for people that has interested in Web Development, Remote Work, Dev Community, Carreer, and Technologies.
+Similar to my Telegram channel, my Newsletter is a place where I share content for people that has interested in Web Development, Remote Work, Dev Community, Career, and Technology.
 
-📺 [YouTube Channel](https://www.youtube.com/c/betomuniz)
+📺 **[YouTube Channel](https://www.youtube.com/c/betomuniz)**
 
 My YouTube channel is a place where I vlog and post videos about Web Development, Remote Work, Dev Community, Carreer, and Technologies.
 
