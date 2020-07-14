@@ -6,6 +6,7 @@ Inspired by web technologies, **I am always willing to contribute to the communi
 
 Currently, I work at **[X-Team](https://x-team.com/)** -
 (**so don't hesitate to let me know if you wanna join our team too 😎**)
+
 Also, I'm Community Lead at **[Minas Dev](https://minasdev.org)** and **[Google Dev Expert for Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-beto_muniz)**.
 
 To know more, follow me on [Twitter](https://twitter.com/obetomuniz), [Telegram](https://t.me.com/obetomuniz_drops), [YouTube](https://www.youtube.com/c/betomuniz), [LinkedIn](https://www.linkedin.com/in/obetomuniz) or visit my [site](https://betomuniz.com).
