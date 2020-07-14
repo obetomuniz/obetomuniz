@@ -56,4 +56,4 @@ A minimal, but powerful and pluggable web scrapper.
 
 💻 [Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web)
 
-We need to support Semantic Web as web developers, so I created this plugin for Atom to help everyone while creating web pages to add semantic.
+We need to support Semantic Web as web developers, so I created this plugin for Atom to help everyone while creating web pages to adopt semantic.
