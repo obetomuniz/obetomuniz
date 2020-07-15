@@ -8,7 +8,7 @@ Currently, I work at **[X-Team](https://x-team.com/)**.
 (**so don't hesitate to let me know if you wanna join us too 😎**)
 
 Also, I'm Community Lead at **[Minas Dev](https://minasdev.org)** and a **[Google Dev Expert for Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-beto_muniz)**.
-<br><br>
+<br><br><br>
 To know more, follow me on **[Twitter](https://twitter.com/obetomuniz)**, **[Telegram](https://t.me.com/obetomuniz_drops)**, **[YouTube](https://www.youtube.com/c/betomuniz)**, **[LinkedIn](https://www.linkedin.com/in/obetomuniz)** or **[BetoMuniz.com](https://betomuniz.com)**
 <br><br>
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
