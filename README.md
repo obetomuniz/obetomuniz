@@ -28,10 +28,6 @@ Similar to my Telegram channel, my Newsletter is a place where I share content f
 
 My YouTube channel is a place where I vlog about Web Development, Remote Work, Dev Community, Career, and Technology.
 
-🔺&nbsp;&nbsp;**[Minas Dev](https://minasdev.org)**
-
-Minas Dev is a Brazilian community where I am Community Lead and co-founder.
-
 🕴&nbsp;&nbsp;**[Listtta](https://listtta.com)**
 
 Listta is an improved and minimal way to use Twitter that I created to avoid toxicity on Twitter filtering the content based in your real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
@@ -43,6 +39,10 @@ A minimal, powerful and pluggable web scrapper. I created it using Node.js
 💻&nbsp;&nbsp;[Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web)
 
 We need to support semantic in web as developers, so I created this plugin for Atom to help its users to adopt semantic standards while creating web pages.
+
+🔺&nbsp;&nbsp;**[Minas Dev](https://minasdev.org)**
+
+Minas Dev is a Brazilian community where I am Community Lead and co-founder.
 
 🔺&nbsp;&nbsp;[Minas Dev Vagas](https://github.com/minasdev/vagas)
 
