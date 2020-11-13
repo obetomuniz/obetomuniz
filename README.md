@@ -18,19 +18,20 @@ To know more, follow me on **[YouTube](https://www.youtube.com/c/betomuniz)**, *
 
 📺&nbsp;&nbsp;**[YouTube Channel](https://beto.im/youtube)**
 
-My YouTube channel is a place where I vlog about Web Development, Remote Work, Dev Community, Career, and Technology.
+My YouTube channel is a place where I talk about Web Development and Software Career.
 
 ✈️&nbsp;&nbsp;**[Beto Muniz Drops](https://beto.im/telegram)**
 
-A channel on Telegram where I share exclusive content for people that has interest to hear me text about Web Development, Remote Work, Dev Community, Career, and Technology.
+A channel on Telegram where I share exclusive content for people that has interest to hear me text about Web Development, Software Career, and Technology, and many others V.I.P. Content.Content.
+
 
 📰&nbsp;&nbsp;**[Beto Muniz Newsletter](https://beto.im/newsletter)**
 
-Similar to my Telegram channel, my Newsletter is a place where I share content for people that has interest to hear my thougths about Web Development, Remote Work, Dev Community, Career, and Technology.
+My Newsletter is a place where I combine the content that I create about Web Development, Software Career, and Technology plus Job Roles, Upcoming Events, and many others V.I.P. Content.
 
-💼&nbsp;&nbsp;**[Seu Job Tech](https://seujob.tech)**
+💼&nbsp;&nbsp;**[SeuJob.Tech](https://seujob.tech)**
 
-Seu Job Tech is a place that index the best job positions in Brazil for Software Developers.
+SeuJob.Tech is a place that index the best job positions in Brazil for Software Developers.
 
 🔺&nbsp;&nbsp;[Minas Dev](https://minasdev.org)
 
