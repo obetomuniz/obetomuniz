@@ -31,7 +31,7 @@ My Newsletter is a place where I combine the content that I create about Web Dev
 
 💼&nbsp;&nbsp;**[SeuJob.Tech](https://seujob.tech)**
 
-SeuJob.Tech is a place that index the best job positions in Brazil for Software Developers.
+SeuJob.Tech is a place that index the best job openings in Brazil for Software Developers.
 
 🔺&nbsp;&nbsp;[Minas Dev](https://minasdev.org)
 
