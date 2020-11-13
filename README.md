@@ -46,12 +46,4 @@ We need to support semantic in web as developers, so I created this plugin for A
 
 🔺&nbsp;&nbsp;**[Minas Dev](https://minasdev.org)**
 
-Minas Dev is a Brazilian community where I am Community Lead and co-founder.
-
-🔺&nbsp;&nbsp;[Minas Dev Newsletter](https://minasdev.org)
-
-Minas Dev Newsletter is a newspaper to our community members with News, Featured Articles, Events, Job Positions, etc.
-
-🔺&nbsp;&nbsp;[Minas Dev Medium](https://medium.com/minasdev)
-
-Minas Dev Medium is a Medium publication for our community members and also to channel that we release Minas Dev's articles of general interest.
+Minas Dev is a Brazilian community for developer folks where I am Community Lead and co-founder.
