@@ -39,7 +39,7 @@ Minas Dev is a Brazilian community for developer folks where I am Community Lead
 
 🕴&nbsp;&nbsp;**[Listtta](https://listtta.com)**
 
-Listta is an improved and minimal way to use Twitter that I created to avoid toxicity on Twitter filtering the content based in your real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
+Listtta is an improved and minimal way to use Twitter that I created to filter the content based in our real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
 
 🕷&nbsp;&nbsp;**[Tatooine](https://github.com/obetomuniz/tatooine)**
 
