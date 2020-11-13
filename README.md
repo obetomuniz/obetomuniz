@@ -7,7 +7,7 @@ Inspired by web technologies, **I am always contributing to the community** with
 Currently, I work at **[X-Team](https://x-team.com/)**. 
 (**so don't hesitate to let me know if you wanna join us too 😎**)
 
-Also, I'm Community Lead at **[Minas Dev](https://minasdev.org)**, **[SeuJob.Tech](https://seujob.tech)** Creator, and a **[Google Dev Expert for Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-beto_muniz)**.
+Also, I'm Community Lead at **[Minas Dev](https://minasdev.org)**, **[SeuJob.Tech](https://seujob.tech)** Founder, and a **[Google Dev Expert for Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-beto_muniz)**.
 <br><br><br>
 To know more, follow me on **[YouTube](https://www.youtube.com/c/betomuniz)**, **[Instagram](https://instagram.com/obetomuniz)**, **[Telegram](https://t.me.com/obetomuniz_drops)**, **[TikTok](https://www.tiktok.com/@obetomuniz)**, and **[LinkedIn](https://www.linkedin.com/in/obetomuniz)**.
 <br><br>
