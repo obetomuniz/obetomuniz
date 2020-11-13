@@ -30,7 +30,7 @@ Similar to my Telegram channel, my Newsletter is a place where I share content f
 
 💼&nbsp;&nbsp;**[Seu Job Tech](https://seujob.tech)**
 
-Seu Job Tech is a place to index the best job positions in Brazil for Software Developers.
+Seu Job Tech is a place that index the best job positions in Brazil for Software Developers.
 
 🔺&nbsp;&nbsp;[Minas Dev](https://minasdev.org)
 
