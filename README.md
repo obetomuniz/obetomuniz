@@ -28,11 +28,11 @@ A channel on Telegram where I share exclusive content for people that has intere
 
 Similar to my Telegram channel, my Newsletter is a place where I share content for people that has interest to hear my thougths about Web Development, Remote Work, Dev Community, Career, and Technology.
 
-💼&nbsp;&nbsp;[Seu Job Tech](https://seujob.tech)
+💼&nbsp;&nbsp;**[Seu Job Tech](https://seujob.tech)**
 
 Seu Job Tech is a place to index the best job positions in Brazil for Software Developers.
 
-🔺&nbsp;&nbsp;**[Minas Dev](https://minasdev.org)**
+🔺&nbsp;&nbsp;[Minas Dev](https://minasdev.org)
 
 Minas Dev is a Brazilian community for developer folks where I am Community Lead and co-founder.
 
