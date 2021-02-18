@@ -30,7 +30,7 @@ My Newsletter is another place where I aggregate the content that I create about
 
 My Blog is where I share knowledge in text. I’m always trying to be as succinct as possible while writing (Twitter-culture fault?). I call the format that I write content “Drops”, which in the end is just an assertive communication exploration that I do while blogging.
 
-📝&nbsp;&nbsp;[Twitch](https://twitch.tv/obetomuniz)
+🎙&nbsp;&nbsp;[Twitch](https://twitch.tv/obetomuniz)
 
 At Twitch I share knowledge, build in public, offer free mentorship, and talk about random stuff.
 
