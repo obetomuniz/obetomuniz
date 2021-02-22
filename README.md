@@ -14,11 +14,11 @@ To know more, follow me on **[YouTube](https://www.youtube.com/c/betomuniz)**, *
 ### 👨‍💻&nbsp;&nbsp;&nbsp;My Personal Projects
 <br>
 
-📺&nbsp;&nbsp;**[YouTube Channel](https://beto.im/youtube)**
+📺&nbsp;&nbsp;**[YouTube Channel](https://www.youtube.com/c/betomuniz)**
 
 My YouTube channel is a place where you can see me talking about Web Development in videos, lives and much more.
 
-✈️&nbsp;&nbsp;**[Telegram Channel](https://beto.im/telegram)**
+✈️&nbsp;&nbsp;**[Telegram Channel](https://t.me/obetomuniz)**
 
 A channel on Telegram where I aggregate content for people that has interest to hear me text about Web Development plus realtime announcements and so on.
 
