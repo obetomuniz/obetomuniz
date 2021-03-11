@@ -20,15 +20,19 @@ My Blog is where I share knowledge in text. I’m always trying to be as succinc
 
 📰&nbsp;&nbsp;**[Newsletter](https://beto.im/newsletter)**
 
-My Newsletter is a place where I aggregate the content that I create about Web Development plus Job Roles, General Technology News, Upcoming Events, and many other useful content.
+My Newsletter is a curated content compilation about Web Development, Job Roles, General Technology News, Self Created Content, Upcoming Events, and many other useful content.
 
-💼&nbsp;&nbsp;**[Seu Job Tech](https://seujob.tech)**
+✈️&nbsp;&nbsp;**[Telegram Channel](https://t.me/obetomuniz)**
 
-Seu Job Tech is a job board that index the best job openings in 🇧🇷 for Tech folks.
+My channel on Telegram I aggregate realtime announcements, content and so on.
 
 📺&nbsp;&nbsp;**[Protocolo Alterado](https://protocoloalterado.com.br)**
 
 Protocolo Alterado is a project that I share content on [YouTube](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA) and [Twitch](https://www.twitch.tv/protalterado) about Web Development for 🇧🇷 folks in Portuguese.
+
+💼&nbsp;&nbsp;**[Seu Job Tech](https://seujob.tech)**
+
+Seu Job Tech is a job board that index the best job openings in 🇧🇷 for Tech folks.
 
 🕷&nbsp;&nbsp;**[Tatooine](https://github.com/obetomuniz/tatooine)**
 
@@ -45,7 +49,3 @@ Listtta is an improved and minimal way to use Twitter filtering the content base
 🕴&nbsp;&nbsp;[Minas Dev](https://minasdev.org)
 
 Minas Dev is a local community in 🇧🇷 for software engineers that I am Co-founder and Leader.
-
-✈️&nbsp;&nbsp;**[Telegram Channel](https://t.me/obetomuniz)**
-
-My channel on Telegram where I aggregate content about Web Development plus realtime announcements and so on.
