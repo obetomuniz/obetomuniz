@@ -2,7 +2,7 @@
 
 I'm **Beto Muniz**, 
 
-Currently, I live in Belo Horizonte, Brazil and work at **[X-Team](https://x-team.com/)**. 
+Currently, I live in Brazil and work at **[X-Team](https://x-team.com/)**. 
 (**so don't hesitate to DM me on [Twitter](https://twitter.com/obetomuniz) if you have interest to join us too 😎**)
 
 Also, I'm **Content Creator**, Founder at **[Seu Job Tech](https://seujob.tech)**, and **[Clipboard.js Core Team](https://github.com/zenorocha/clipboard.js)**.
