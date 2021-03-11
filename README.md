@@ -14,33 +14,25 @@ To know more, follow me on **[YouTube](https://www.youtube.com/c/betomuniz)**, *
 ### 👨‍💻&nbsp;&nbsp;&nbsp;My Personal Projects
 <br>
 
-📺&nbsp;&nbsp;**[YouTube Channel](https://www.youtube.com/c/betomuniz)**
+📝&nbsp;&nbsp;[Blog](https://dev.to/obetomuniz)
 
-My YouTube channel is a place where you can see me talking about Web Development in videos, lives and much more.
-
-✈️&nbsp;&nbsp;**[Telegram Channel](https://t.me/obetomuniz)**
-
-A channel on Telegram where I aggregate content for people that has interest to hear me text about Web Development plus realtime announcements and so on.
+My Blog is where I share knowledge in text. I’m always trying to be as succinct as possible while writing (Twitter-culture fault?). I call the format that I write content “Drops”, which in the end is just an assertive communication exploration that I do while writing webdev content.
 
 📰&nbsp;&nbsp;**[Newsletter](https://beto.im/newsletter)**
 
-My Newsletter is another place where I aggregate the content that I create about Web Development plus Job Roles, General Technology News, Upcoming Events, and many other content.
-
-📝&nbsp;&nbsp;[Blog](https://dev.to/obetomuniz)
-
-My Blog is where I share knowledge in text. I’m always trying to be as succinct as possible while writing (Twitter-culture fault?). I call the format that I write content “Drops”, which in the end is just an assertive communication exploration that I do while blogging.
-
-🎙&nbsp;&nbsp;[Twitch](https://twitch.tv/obetomuniz)
-
-At Twitch I share knowledge, build in public, offer free mentorship, and talk about random stuff.
+My Newsletter is a place where I aggregate the content that I create about Web Development plus Job Roles, General Technology News, Upcoming Events, and many other useful content.
 
 💼&nbsp;&nbsp;**[Seu Job Tech](https://seujob.tech)**
 
-Seu Job Tech is a job board that index the best job openings in Brazil for Tech folks.
+Seu Job Tech is a job board that index the best job openings in 🇧🇷 for Tech folks.
+
+📺&nbsp;&nbsp;**[Procolo Alterado](https://protocoloalterado.com.br)**
+
+Protocolo Alterado is a project that I use to share content on [YouTube](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA) and [Twitch](https://www.twitch.tv/protalterado) about Web Development for 🇧🇷 folks in Portuguese.
 
 🕷&nbsp;&nbsp;**[Tatooine](https://github.com/obetomuniz/tatooine)**
 
-A minimal, powerful and pluggable web scrapper that created using Node.js.
+A minimal, powerful and pluggable web scrapper that I created for Node.js.
 
 💻&nbsp;&nbsp;[Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web)
 
@@ -49,3 +41,11 @@ A plugin for Atom to help its users to adopt semantic standards while coding web
 🕴&nbsp;&nbsp;**[Listtta](https://listtta.com)**
 
 Listtta is an improved and minimal way to use Twitter filtering the content based in our real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
+
+🕴&nbsp;&nbsp;[Minas Dev](https://minasdev.org)
+
+Minas Dev is a local community in 🇧🇷 for software engineers that I am Co-founder and Leader.
+
+✈️&nbsp;&nbsp;**[Telegram Channel](https://t.me/obetomuniz)**
+
+My channel on Telegram where I aggregate content about Web Development plus realtime announcements and so on.
