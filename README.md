@@ -42,7 +42,7 @@ A minimal, powerful and pluggable web scrapper that I created for Node.js.
 
 A plugin for Atom to help its users to adopt semantic standards while coding web pages.
 
-🕴&nbsp;&nbsp;[Listtta](https://listtta.com)
+🕴&nbsp;&nbsp;**[Listtta](https://listtta.com)**
 
 Listtta is an improved and minimal way to use Twitter filtering the content based in our real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
 
