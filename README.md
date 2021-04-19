@@ -1,3 +1,5 @@
+[![Twitter](https://img.shields.io/twitter/follow/obetomuniz?style=social)](https://twitter.com/obetomuniz)
+
 ### 👋&nbsp;&nbsp;Heey!
 
 I'm **Beto Muniz**, 
