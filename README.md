@@ -7,7 +7,7 @@ I'm **Beto Muniz**,
 Currently, I live in Brazil and work at **[X-Team](https://x-team.com/)**. 
 (**so don't hesitate to DM me on [Twitter](https://twitter.com/obetomuniz) if you have interest to join us too 😎**)
 
-Also, I'm **[Tech Writer](https://dev.to/obetomuniz)**, Indie Creator at **[Seu Job Tech](https://seujob.tech)**, **[Listtta](https://listtta.com)**, and **[Protocolo Alterado](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA)**, **[Google Developer Expert for Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-beto_muniz)**, and **[Clipboard.js Core Contributor](https://github.com/zenorocha/clipboard.js)**.
+Also, I'm **[Tech Writer](https://dev.to/obetomuniz)**, Indie Creator at **[Seu Job Tech](https://seujob.tech)**, **[Listtta](https://listtta.com)**, and **[Protocolo Alterado](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA)**, **[Google Developer Expert for Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-beto-muniz)**, and **[Clipboard.js Core Contributor](https://github.com/zenorocha/clipboard.js)**.
 <br><br><br>
 To know more, track me on **[Twitter](https://twitter.com/intent/follow?screen_name=obetomuniz)** or **[Newsletter](https://beto.im/newsletter)**.
 <br><br>
