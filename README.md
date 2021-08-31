@@ -16,6 +16,14 @@ To know more, track me on **[Twitter](https://twitter.com/intent/follow?screen_n
 ### 👨‍💻&nbsp;&nbsp;&nbsp;My Personal Projects
 <br>
 
+💼&nbsp;&nbsp;**[Seu Job Tech](https://seujob.tech)**
+
+Seu Job Tech is a job board that index the best job openings in 🇧🇷 for Tech folks.
+
+📺&nbsp;&nbsp;**[Protocolo Alterado](https://protocoloalterado.com.br)**
+
+Protocolo Alterado is a project that I share content on [YouTube](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA) and [Twitch](https://www.twitch.tv/protalterado) about Web Development for 🇧🇷 folks in Portuguese.
+
 📝&nbsp;&nbsp;**[Blog](https://betomuniz.com)**
 
 My Blog is where I share knowledge in text. I’m always trying to be as succinct as possible while writing (Twitter-culture fault?). I call the format that I write content “Drops”, which in the end is just an assertive communication exploration that I do while writing webdev content.
@@ -23,14 +31,6 @@ My Blog is where I share knowledge in text. I’m always trying to be as succinc
 📰&nbsp;&nbsp;**[Newsletter](https://www.getrevue.co/profile/obetomuniz)**
 
 My Newsletter is a curated content compilation about Web Development, Job Roles, General Technology News, Self Created Content, Upcoming Events, and many other useful content.
-
-📺&nbsp;&nbsp;**[Protocolo Alterado](https://protocoloalterado.com.br)**
-
-Protocolo Alterado is a project that I share content on [YouTube](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA) and [Twitch](https://www.twitch.tv/protalterado) about Web Development for 🇧🇷 folks in Portuguese.
-
-💼&nbsp;&nbsp;**[Seu Job Tech](https://seujob.tech)**
-
-Seu Job Tech is a job board that index the best job openings in 🇧🇷 for Tech folks.
 
 🕷&nbsp;&nbsp;**[Tatooine](https://github.com/obetomuniz/tatooine)**
 
