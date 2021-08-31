@@ -16,17 +16,13 @@ To know more, track me on **[Twitter](https://twitter.com/intent/follow?screen_n
 ### 👨‍💻&nbsp;&nbsp;&nbsp;My Personal Projects
 <br>
 
-📝&nbsp;&nbsp;**[Blog](https://dev.to/obetomuniz)**
+📝&nbsp;&nbsp;**[Blog](https://betomuniz.com)**
 
 My Blog is where I share knowledge in text. I’m always trying to be as succinct as possible while writing (Twitter-culture fault?). I call the format that I write content “Drops”, which in the end is just an assertive communication exploration that I do while writing webdev content.
 
-📰&nbsp;&nbsp;**[Newsletter](https://beto.im/newsletter)**
+📰&nbsp;&nbsp;**[Newsletter](https://www.getrevue.co/profile/obetomuniz)**
 
 My Newsletter is a curated content compilation about Web Development, Job Roles, General Technology News, Self Created Content, Upcoming Events, and many other useful content.
-
-✈️&nbsp;&nbsp;**[Telegram Channel](https://t.me/obetomuniz)**
-
-My channel on Telegram I aggregate realtime announcements, content and so on.
 
 📺&nbsp;&nbsp;**[Protocolo Alterado](https://protocoloalterado.com.br)**
 
@@ -46,7 +42,7 @@ A plugin for Atom to help its users to adopt semantic standards while coding web
 
 🕴&nbsp;&nbsp;**[Listtta](https://listtta.com)**
 
-Listtta is an improved and minimal way to use Twitter filtering the content based in our real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
+Listtta is an improved, content-centrict and minimal way to use Twitter based in real interests. I created it using Flutter exploring the Twitter Lists feature.
 
 🕴&nbsp;&nbsp;[Minas Dev](https://minasdev.org)
 
