@@ -25,10 +25,6 @@ Protocolo Alterado is a project that I share content on [YouTube](https://www.yo
 
 My Blog is where I share knowledge in text. I’m always trying to be as succinct as possible while writing (Twitter-culture fault?). I call the format that I write content “Drops”, which in the end is just an assertive communication exploration that I do while writing webdev content.
 
-📰&nbsp;&nbsp;**[Newsletter](https://www.getrevue.co/profile/obetomuniz)**
-
-My Newsletter is a curated content compilation about Web Development, Job Roles, General Technology News, Self Created Content, Upcoming Events, and many other useful content.
-
 🕷&nbsp;&nbsp;**[Tatooine](https://github.com/obetomuniz/tatooine)**
 
 A minimal, powerful and pluggable web scrapper that I created for Node.js.
