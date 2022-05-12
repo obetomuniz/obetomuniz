@@ -1,4 +1,4 @@
-[![YouTube do Protocolo Alterado](https://img.shields.io/youtube/channel/subscribers/UCdbYUUg9vYMnuWexhaSZTIA?label=Subscribe&style=social)](https://www.youtube.com/c/ProtocoloAlterado?sub_confirmation=1)&nbsp;&nbsp;[![Beto Muniz's Twitter](https://img.shields.io/twitter/follow/obetomuniz?style=social)](https://twitter.com/intent/follow?screen_name=obetomuniz)
+[![YouTube do Protocolo Alterado](https://img.shields.io/youtube/channel/subscribers/UCdbYUUg9vYMnuWexhaSZTIA?label=Subscribe&style=social)](https://www.youtube.com/c/ProtocoloAlterado?sub_confirmation=1)&nbsp;&nbsp;[![Twitch do Protocolo Alterado](https://img.shields.io/twitch/status/protocoloalterado?style=social)](https://twitch.tv/ProtocoloAlterado)&nbsp;&nbsp;[![Beto Muniz's Twitter](https://img.shields.io/twitter/follow/obetomuniz?style=social)](https://twitter.com/intent/follow?screen_name=obetomuniz)
 
 ### 👋&nbsp;&nbsp;Heey!
 
