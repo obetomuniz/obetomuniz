@@ -4,7 +4,7 @@
 
 I'm **Beto Muniz**, 
 
-Currently, I live in Brazil and work at **[Grafana Labs](https://grafana.com/)**.
+Currently, I live in Brazil and work as **UX Engineer** at **[Grafana Labs](https://grafana.com/)**.
 
 Also, I'm **[Tech Writer](https://dev.to/obetomuniz)**, Indie Creator at **[Seu Job Tech](https://seujob.tech)** and **[Protocolo Alterado](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA)**, **[Google Developer Expert for Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-beto-muniz)**, and **[Clipboard.js Core Contributor](https://github.com/zenorocha/clipboard.js)**.
 <br><br>
