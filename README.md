@@ -15,7 +15,7 @@ Also, I'm **[Tech Writer](https://dev.to/obetomuniz)**, Indie Creator at **[Seu 
 
 📺&nbsp;&nbsp;**[Ei! DEV](https://ei.dev.br)**
 
-Protocolo Alterado is a project that I share content on [YouTube](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA), [Discord](https://discord.com/invite/kZWtGRBwmf), and [Twitch](https://www.twitch.tv/protalterado) about Web Development for 🇧🇷 folks in Portuguese.
+Ei! DEV is a project that I share content on [YouTube](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA), [Discord](https://discord.com/invite/kZWtGRBwmf), and [Twitch](https://www.twitch.tv/protalterado) about Web Development for 🇧🇷 folks in Portuguese.
 
 💼&nbsp;&nbsp;**[Seu Job Tech](https://seujob.tech)**
 
