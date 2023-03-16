@@ -29,10 +29,6 @@ My Blog is where I share knowledge in text. I’m always trying to be as succinc
 
 A minimal, powerful and pluggable web scrapper that I created for Node.js.
 
-💻&nbsp;&nbsp;[Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web)
-
-A plugin for Atom to help its users to adopt semantic standards while coding web pages.
-
 🕴&nbsp;&nbsp;[Minas Dev](https://minasdev.org)
 
 Minas Dev is a local community in 🇧🇷 for software engineers that I am Co-founder and Leader.
