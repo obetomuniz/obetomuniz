@@ -4,7 +4,7 @@
 
 I'm **Beto Muniz**, 
 
-Currently, I live in Brazil and work as **UX Engineer** at **[Grafana Labs](https://grafana.com/)**.
+A Open Source Trailblazer that work as **UX Engineer** at **[Grafana Labs](https://grafana.com/)**.
 
 Also, I'm **[Tech Writer](https://dev.to/obetomuniz)**, Content Creator at **[Ei! DEV](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA)**, Founder at **[Seu Job Tech](https://seujob.tech)**, and **[Google Developer Expert for Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-beto-muniz)**.
 <br><br>
