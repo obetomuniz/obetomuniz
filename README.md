@@ -1,8 +1,8 @@
-[![YouTube do Ei! DEV](https://img.shields.io/youtube/channel/subscribers/UCdbYUUg9vYMnuWexhaSZTIA?label=Subscribe&style=social)](https://www.youtube.com/@eidevbr/about?sub_confirmation=1)&nbsp;&nbsp;[![Beto Muniz's Twitter](https://img.shields.io/twitter/follow/obetomuniz?style=social)](https://twitter.com/intent/follow?screen_name=obetomuniz)
+
 
 ### 👋&nbsp;&nbsp;Heey!
 
-I'm **Beto Muniz**, 
+I'm **[Beto Muniz](https://betomuniz.com)**, 
 
 A Open Source Trailblazer that work as **UX Engineer** at **[Grafana Labs](https://grafana.com/)**.
 
