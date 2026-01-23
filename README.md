@@ -6,7 +6,7 @@ I'm **[Beto Muniz](https://betomuniz.com)**,
 
 A seasoned Brazilian Software Engineer that works as **Senior Software Engineer, Front-End** at **[Grafana Labs](https://grafana.com/)**.
 
-Also, I'm **[Tech Writer](https://betomuniz.com/blog)** and Content Creator at **[YouTube](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA)**<br><br>
+Also, I'm **[Tech Writer](https://betomuniz.com/blog)** and Content Creator at **[YouTube](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA)**.<br><br>
 ### Side Projects
 
 - [SeuJob.Tech](https://betomuniz.com/jobs) - A job board index for job seekers focused in brazilian tech scenario
