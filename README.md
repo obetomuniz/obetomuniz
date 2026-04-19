@@ -7,7 +7,7 @@ Most of what I do publicly lives at **[betomuniz.com](https://betomuniz.com)**, 
 ## Currently
 
 - 🤖 Building AI experiences at Grafana Labs (Grafana Assistant team)
-- 🌐 Exploring agent-friendly web standards like MCP, AGENTS.md, Markdown for Agents, and A2A, applied [on this very site](https://github.com/obetomuniz/betomuniz.com/blob/main/AGENTS.md)
+- 🌐 Exploring agent-friendly web standards
 - 📝 Writing on my [blog](https://betomuniz.com/blog) and [newsletter](https://obetomuniz.substack.com)
 - 🎙️ Sharing in PT-BR on [YouTube](https://youtube.com/@obetomuniz) about software engineering, open source, and career
 
