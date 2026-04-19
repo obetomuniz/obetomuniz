@@ -1,21 +1,34 @@
+# Beto Muniz
 
+Senior Software Engineer at [Grafana Labs](https://grafana.com), with strong front-end roots and intentional reach across product engineering, UX, DX, back-end, and AI. Currently building AI experiences like **[Grafana Assistant](https://grafana.com/docs/grafana-cloud/machine-learning/assistant/)**. Based in Lagoa Santa, Minas Gerais, Brazil, where I build products, side projects, and content in the open.
 
-### 👋&nbsp;&nbsp;Heey!
+Most of what I do publicly lives at **[betomuniz.com](https://betomuniz.com)**, a personal site that doubles as a small monorepo for the side projects below.
 
-I'm **[Beto Muniz](https://betomuniz.com)**, 
+## Currently
 
-A seasoned Brazilian Software Engineer that works as **Senior Software Engineer, Front-End** at **[Grafana Labs](https://grafana.com/)**.
+- 🤖 Building AI experiences at Grafana Labs (Grafana Assistant team)
+- 🌐 Exploring agent-friendly web standards like MCP, AGENTS.md, Markdown for Agents, and A2A, applied [on this very site](https://github.com/obetomuniz/betomuniz.com/blob/main/AGENTS.md)
+- 📝 Writing on my [blog](https://betomuniz.com/blog) and [newsletter](https://obetomuniz.substack.com)
+- 🎙️ Sharing in PT-BR on [YouTube](https://youtube.com/@obetomuniz) about software engineering, open source, and career
 
-Also, I'm **[Tech Writer](https://betomuniz.com/blog)** and Content Creator at **[YouTube](https://www.youtube.com/channel/UCdbYUUg9vYMnuWexhaSZTIA)**.<br><br>
-### Side Projects
+## Side projects
 
-- [SeuJob.Tech](https://betomuniz.com/jobs) - A job board index for job seekers focused in brazilian tech scenario
-- [LoFM.club](https://betomuniz.com/fm) - A LoFi FM station that I built to use while working
-- [newsDev.space](https://betomuniz.com/news) - A news feed focused in development and tech
+- **[Jobs](https://betomuniz.com/jobs)**: remote-job aggregator pulling from 11+ Brazilian and global sources
+- **[LoFM](https://betomuniz.com/fm)**: a 24/7 LoFi radio I keep running while coding
+- **[newsDev](https://betomuniz.com/news)**: developer-focused news feed
 
-### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
-<br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="24"><br>
+## Open-source highlights
 
-### Contact
+- **[ai-security-check-for-pull-requests-action](https://github.com/obetomuniz/ai-security-check-for-pull-requests-action)**: GitHub Action that runs an AI security review on every PR
+- **[security-fns](https://github.com/obetomuniz/security-fns)**: small, focused security utilities for the front-end
+- **[tatooine](https://github.com/obetomuniz/tatooine)**: a flexible scraper for jobs, news, and data sources
+- More at [`@obetomuniz`](https://github.com/obetomuniz?tab=repositories)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/obetomuniz) to explore the transformative potential of Open Source and build a better future on the web together!
+## Elsewhere
+
+[Website](https://betomuniz.com) ·
+[Blog](https://betomuniz.com/blog) ·
+[Newsletter](https://obetomuniz.substack.com) ·
+[LinkedIn](https://linkedin.com/in/obetomuniz) ·
+[YouTube](https://youtube.com/@obetomuniz) ·
+[Twitter / X](https://twitter.com/obetomuniz)
