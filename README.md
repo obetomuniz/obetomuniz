@@ -1,34 +1,28 @@
 # Beto Muniz
 
-Senior Software Engineer at [Grafana Labs](https://grafana.com), with strong front-end roots and intentional reach across product engineering, UX, DX, back-end, and AI. Currently building AI experiences like **[Grafana Assistant](https://grafana.com/docs/grafana-cloud/machine-learning/assistant/)**. Based in Lagoa Santa, Minas Gerais, Brazil, where I build products, side projects, and content in the open.
+I'm Beto, a Senior Software Engineer at [Grafana Labs](https://grafana.com) with 15+ years building software, from the web to AI and agents.
 
-Most of what I do publicly lives at **[betomuniz.com](https://betomuniz.com)**, a personal site that doubles as a small monorepo for the side projects below.
+Front-end at heart, I enjoy working across the whole product: user experience, developer experience, back-end, and architecture. What drives me is building useful things that make a difference in people's everyday lives. Along the way, I've worked with teams at Grafana Labs, Google, Riot Games, and Onrizon Games, among others.
 
-## Currently
+Open source is how I keep learning. Writing and videos are how I share it. I write on my [blog](https://betomuniz.com/blog) and share videos in Portuguese on [YouTube](https://youtube.com/@obetomuniz) about software engineering, open source, and careers in tech.
 
-- 🤖 Building AI experiences at Grafana Labs (Grafana Assistant team)
-- 🌐 Exploring agent-friendly web standards
-- 📝 Writing on my [blog](https://betomuniz.com/blog) and [newsletter](https://obetomuniz.substack.com)
-- 🎙️ Sharing in PT-BR on [YouTube](https://youtube.com/@obetomuniz) about software engineering, open source, and career
+Based in Lagoa Santa, Minas Gerais, Brazil, and working remotely. Away from the keyboard: family, cats and dogs, games, tennis, basketball, and fantasy and sci-fi books.
 
-## Side projects
+## Projects
 
-- **[Jobs](https://betomuniz.com/jobs)**: remote-job aggregator pulling from 11+ Brazilian and global sources
-- **[LoFM](https://betomuniz.com/fm)**: a 24/7 LoFi radio I keep running while coding
-- **[newsDev](https://betomuniz.com/news)**: developer-focused news feed
+- **[Ovli](https://ovli.app)** — A free desktop overlay for games, streams, workspaces, and multiple monitors on Windows 11.
+- **[Pheed](https://pheed.vercel.app/)** — RSS feeds turned into concise AI reading notes, generated locally in your browser and saved for offline reading.
+- **[web-ai-sdk](https://github.com/obetomuniz/web-ai-sdk)** — A TypeScript SDK for the browser's built-in AI APIs and WebMCP.
+- **[Jobs](https://jobs.obetomuniz.workers.dev/)** — A job board to help people find remote work.
+- **[LoFM](https://lofm.obetomuniz.workers.dev/)** — A 24/7 LoFi radio for focus.
 
-## Open-source highlights
-
-- **[ai-security-check-for-pull-requests-action](https://github.com/obetomuniz/ai-security-check-for-pull-requests-action)**: GitHub Action that runs an AI security review on every PR
-- **[security-fns](https://github.com/obetomuniz/security-fns)**: small, focused security utilities for the front-end
-- **[tatooine](https://github.com/obetomuniz/tatooine)**: a flexible scraper for jobs, news, and data sources
-- More at [`@obetomuniz`](https://github.com/obetomuniz?tab=repositories)
+More about these projects at [betomuniz.com/labs](https://betomuniz.com/labs).
 
 ## Elsewhere
 
 [Website](https://betomuniz.com) ·
 [Blog](https://betomuniz.com/blog) ·
-[Newsletter](https://obetomuniz.substack.com) ·
+[X](https://x.com/obetomuniz) ·
 [LinkedIn](https://linkedin.com/in/obetomuniz) ·
 [YouTube](https://youtube.com/@obetomuniz) ·
-[Twitter / X](https://twitter.com/obetomuniz)
+[Newsletter](https://obetomuniz.substack.com)
