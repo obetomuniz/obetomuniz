@@ -8,7 +8,7 @@ Open source is how I keep learning. Writing and videos are how I share it. I wri
 
 Based in Lagoa Santa, Minas Gerais, Brazil, and working remotely. Away from the keyboard: family, cats and dogs, games, tennis, basketball, and fantasy and sci-fi books.
 
-## Projects
+## My Projects
 
 - **[Ovli](https://ovli.app)**: A free desktop overlay for games, streams, workspaces, and multiple monitors on Windows 11.
 - **[Pheed](https://pheed.vercel.app/)**: RSS feeds turned into concise AI reading notes, generated locally in your browser and saved for offline reading.
