@@ -11,10 +11,10 @@ Based in Lagoa Santa, Minas Gerais, Brazil, and working remotely. Away from the 
 ## My Projects
 
 - **[Ovli](https://ovli.app)**: A free desktop overlay for games, streams, workspaces, and multiple monitors on Windows 11.
-- **[Pheed](https://pheed.vercel.app/)**: RSS feeds turned into concise AI reading notes, generated locally in your browser and saved for offline reading.
+- **[Pheed](https://fad.media)**: RSS feeds turned into concise AI reading notes, generated locally in your browser and saved for offline reading.
 - **[web-ai-sdk](https://github.com/obetomuniz/web-ai-sdk)**: A TypeScript SDK for the browser's built-in AI APIs and WebMCP.
 - **[Labuta](https://labuta.tech)**: A job board to help people find remote work.
-- **[LoFM](https://lofm.obetomuniz.workers.dev/)**: A 24/7 LoFi radio for focus.
+- **[LoFM](https://lofm.betomuniz.com/)**: A 24/7 LoFi radio for focus.
 
 More about these projects at [betomuniz.com/labs](https://betomuniz.com/labs).
 
