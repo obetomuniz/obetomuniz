@@ -10,11 +10,11 @@ Based in Lagoa Santa, Minas Gerais, Brazil, and working remotely. Away from the 
 
 ## My Projects
 
-- **[Ovli](https://ovli.app)**: A free desktop overlay for games, streams, workspaces, and multiple monitors on Windows 11.
-- **[Fad Media](https://fad.media)**: The feeds and topics you follow turned into AI briefs, live dashboards and reading notes, generated locally in your browser by default.
-- **[web-ai-sdk](https://github.com/obetomuniz/web-ai-sdk)**: A TypeScript SDK for the browser's built-in AI APIs and WebMCP.
-- **[Labuta](https://labuta.tech)**: A job board to help people find remote work.
-- **[LoFM](https://lofm.betomuniz.com/)**: A 24/7 LoFi radio for focus.
+- **[Ovli](https://ovli.app)**: An overlay I'm building to keep apps, mini browsers and tools on top of games, streams and work, one shortcut away. Windows 11 only for now, but I have plans for macOS and Linux, like Omarchy and Ubuntu (if you're interested in those platforms, let me know).
+- **[Fad Media](https://fad.media)**: A reader I built for keeping up with feeds and topics: AI briefs, live dashboards and reading notes, generated right in the browser.
+- **[web-ai-sdk](https://github.com/obetomuniz/web-ai-sdk)**: A TypeScript SDK I built to make the browser's built-in AI easier to use: Prompt, Writer, Rewriter, Proofreader, Translator, Summarizer, Language Detector and WebMCP.
+- **[Labuta](https://labuta.tech)**: A job board I made to help people find remote work in tech. Formerly SeuJob.Tech, but now with bigger plans hehe
+- **[LoFM](https://lofm.betomuniz.com/)**: A "LoFi" radio I made for anyone who needs to focus, on air 24/7.
 
 More about these projects at [betomuniz.com/labs](https://betomuniz.com/labs).
 
